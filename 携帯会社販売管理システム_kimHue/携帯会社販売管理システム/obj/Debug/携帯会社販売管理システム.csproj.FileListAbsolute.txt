@@ -1,0 +1,104 @@
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CoreCompileInputs.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CoreCompileInputs.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CoreCompileInputs.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム - Copy1 - Copy\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Products.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Products.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CoreCompileInputs.cache
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\hueph\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Products.resources
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CoreCompileInputs.cache
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\b9332\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormReceipt.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.BaseForm.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.FormLogin.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.WareHousing.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Menu.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Products.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.WareHousingInsert.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.Properties.Resources.resources
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.GenerateResource.cache
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe.config
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.exe
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\携帯会社販売管理システム.pdb
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.dll
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.xml
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csproj.CopyComplete
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.exe
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.pdb
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.csprojAssemblyReference.cache
+C:\Users\ahawa\Desktop\携帯会社販売管理システム_kimHue\携帯会社販売管理システム_kimHue\携帯会社販売管理システム\obj\Debug\携帯会社販売管理システム.ClientForm.MenuNew.resources

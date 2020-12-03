@@ -90,5 +90,6 @@ namespace 携帯会社販売管理システム
         }
 
     }
+    ytftyufythgvhjhjv
 
 }

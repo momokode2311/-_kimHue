@@ -59,7 +59,8 @@ namespace 携帯会社販売管理システム
         }
         private void Menu_FormClosing(object sender, FormClosingEventArgs e)
         {
-
+            CallForm(this, new FormLogin(), ClientId.Form_002, ClientId.Form_001);
         }
+
     }
 }

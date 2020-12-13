@@ -29,17 +29,12 @@
         private void InitializeComponent()
         {
             this.panel3 = new System.Windows.Forms.Panel();
+            this.btnDelete = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
-            this.btnInsert = new System.Windows.Forms.Button();
+            this.btnExecute = new System.Windows.Forms.Button();
             this.grvWareHousingInsert = new System.Windows.Forms.DataGridView();
-            this.SNumber = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.SName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.color = new System.Windows.Forms.DataGridViewComboBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.label1 = new System.Windows.Forms.Label();
-            this.txtWHS = new System.Windows.Forms.TextBox();
+            this.txtWHSNo = new System.Windows.Forms.TextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.txtDt = new System.Windows.Forms.TextBox();
             this.dtPickerFrom = new System.Windows.Forms.DateTimePicker();
@@ -58,12 +53,24 @@
             // 
             this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
+            this.panel3.Controls.Add(this.btnDelete);
             this.panel3.Controls.Add(this.btnExit);
-            this.panel3.Controls.Add(this.btnInsert);
+            this.panel3.Controls.Add(this.btnExecute);
             this.panel3.Location = new System.Drawing.Point(22, 623);
             this.panel3.Name = "panel3";
             this.panel3.Size = new System.Drawing.Size(759, 43);
             this.panel3.TabIndex = 31;
+            // 
+            // btnDelete
+            // 
+            this.btnDelete.BackColor = System.Drawing.Color.LightGray;
+            this.btnDelete.Location = new System.Drawing.Point(155, 6);
+            this.btnDelete.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.btnDelete.Name = "btnDelete";
+            this.btnDelete.Size = new System.Drawing.Size(134, 34);
+            this.btnDelete.TabIndex = 26;
+            this.btnDelete.Text = "削除";
+            this.btnDelete.UseVisualStyleBackColor = false;
             // 
             // btnExit
             // 
@@ -74,76 +81,29 @@
             this.btnExit.TabIndex = 25;
             this.btnExit.Text = "戻る";
             this.btnExit.UseVisualStyleBackColor = true;
+            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // btnInsert
+            // btnExecute
             // 
-            this.btnInsert.BackColor = System.Drawing.Color.LightGray;
-            this.btnInsert.Location = new System.Drawing.Point(6, 6);
-            this.btnInsert.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
-            this.btnInsert.Name = "btnInsert";
-            this.btnInsert.Size = new System.Drawing.Size(134, 34);
-            this.btnInsert.TabIndex = 23;
-            this.btnInsert.Text = "登録";
-            this.btnInsert.UseVisualStyleBackColor = false;
+            this.btnExecute.BackColor = System.Drawing.Color.LightGray;
+            this.btnExecute.Location = new System.Drawing.Point(6, 6);
+            this.btnExecute.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
+            this.btnExecute.Name = "btnExecute";
+            this.btnExecute.Size = new System.Drawing.Size(134, 34);
+            this.btnExecute.TabIndex = 23;
+            this.btnExecute.Text = "登録";
+            this.btnExecute.UseVisualStyleBackColor = false;
+            this.btnExecute.Click += new System.EventHandler(this.btnExecute_Click);
             // 
             // grvWareHousingInsert
             // 
             this.grvWareHousingInsert.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.grvWareHousingInsert.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.SNumber,
-            this.SName,
-            this.color,
-            this.Column1,
-            this.Column6,
-            this.Column2});
             this.grvWareHousingInsert.Location = new System.Drawing.Point(22, 230);
             this.grvWareHousingInsert.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.grvWareHousingInsert.Name = "grvWareHousingInsert";
             this.grvWareHousingInsert.RowTemplate.Height = 24;
             this.grvWareHousingInsert.Size = new System.Drawing.Size(763, 387);
             this.grvWareHousingInsert.TabIndex = 30;
-            // 
-            // SNumber
-            // 
-            this.SNumber.HeaderText = "商品番号";
-            this.SNumber.Name = "SNumber";
-            this.SNumber.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            // 
-            // SName
-            // 
-            this.SName.HeaderText = "商品名";
-            this.SName.Name = "SName";
-            this.SName.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.SName.Width = 120;
-            // 
-            // color
-            // 
-            this.color.HeaderText = "カラー";
-            this.color.Name = "color";
-            this.color.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.color.Width = 60;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "入荷数量";
-            this.Column1.Name = "Column1";
-            this.Column1.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.Column1.Width = 60;
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "単価";
-            this.Column6.Name = "Column6";
-            this.Column6.ReadOnly = true;
-            this.Column6.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
-            this.Column6.Width = 60;
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "合計金額";
-            this.Column2.Name = "Column2";
-            this.Column2.ReadOnly = true;
-            this.Column2.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
             // 
             // label1
             // 
@@ -158,17 +118,17 @@
             this.label1.Text = "入庫番号";
             this.label1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
-            // txtWHS
+            // txtWHSNo
             // 
-            this.txtWHS.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            this.txtWHSNo.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
-            this.txtWHS.ImeMode = System.Windows.Forms.ImeMode.Disable;
-            this.txtWHS.Location = new System.Drawing.Point(101, 11);
-            this.txtWHS.Margin = new System.Windows.Forms.Padding(3, 10, 3, 3);
-            this.txtWHS.Name = "txtWHS";
-            this.txtWHS.Size = new System.Drawing.Size(110, 20);
-            this.txtWHS.TabIndex = 10;
+            this.txtWHSNo.ImeMode = System.Windows.Forms.ImeMode.Disable;
+            this.txtWHSNo.Location = new System.Drawing.Point(101, 11);
+            this.txtWHSNo.Margin = new System.Windows.Forms.Padding(3, 10, 3, 3);
+            this.txtWHSNo.Name = "txtWHSNo";
+            this.txtWHSNo.Size = new System.Drawing.Size(110, 20);
+            this.txtWHSNo.TabIndex = 10;
             // 
             // label3
             // 
@@ -217,7 +177,7 @@
             this.panel2.Controls.Add(this.txtComment);
             this.panel2.Controls.Add(this.label2);
             this.panel2.Controls.Add(this.label1);
-            this.panel2.Controls.Add(this.txtWHS);
+            this.panel2.Controls.Add(this.txtWHSNo);
             this.panel2.Controls.Add(this.label3);
             this.panel2.Controls.Add(this.txtDt);
             this.panel2.Controls.Add(this.dtPickerFrom);
@@ -299,7 +259,7 @@
             this.Controls.Add(this.lblTittle);
             this.Name = "WareHousingInsert";
             this.Text = "WareHousingInsert";
-            //this.Load += new System.EventHandler(this.WareHousingInsert_Load);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.WareHousingInsert_FormClosing);
             this.panel3.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.grvWareHousingInsert)).EndInit();
             this.panel2.ResumeLayout(false);
@@ -313,10 +273,10 @@
 
         private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Button btnExit;
-        private System.Windows.Forms.Button btnInsert;
+        private System.Windows.Forms.Button btnExecute;
         private System.Windows.Forms.DataGridView grvWareHousingInsert;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtWHS;
+        private System.Windows.Forms.TextBox txtWHSNo;
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.TextBox txtDt;
         private System.Windows.Forms.DateTimePicker dtPickerFrom;
@@ -326,11 +286,6 @@
         private System.Windows.Forms.RichTextBox txtComment;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox txtUserName;
-        private System.Windows.Forms.DataGridViewComboBoxColumn SNumber;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SName;
-        private System.Windows.Forms.DataGridViewComboBoxColumn color;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.Button btnDelete;
     }
 }

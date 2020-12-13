@@ -30,27 +30,13 @@ namespace 携帯会社販売管理システム
         {
             try
             {
-                var loginAccess = new LoginDataAccess();
-                var dt = loginAccess.Login(txtUserID.Text,txtPassword.Text);
 
-                if (dt.Rows.Count >0)
-                {
-                    Menu menu = new Menu();
-                    UserID = dt.Rows[0]["EmID"].ToString();
-                    UserName = dt.Rows[0]["EmName"].ToString();
-                    CallForm(this, menu, ClientId.Form_002, ClientId.Form_001);
-                }
-                else
-                {
-                    DisplayMessage(MessageKind.ErrorBox, MessageManager.E001);
-                    txtUserID.Focus();
-                }
+                this.DoLogin();
                 
             }
             catch (Exception ex)
             {
                 DisplayMessage(MessageKind.ErrorBox, MessageManager.E000);
-                //TODO: Luu noi dung Error ra file log luu tai folder debug
                 throw ex;
 
             }
@@ -62,9 +48,53 @@ namespace 携帯会社販売管理システム
             var rs = DisplayMessage(MessageKind.WarningBox, MessageManager.W001);
             if (rs == DialogResult.OK)
             {
-                this.Close();
+                this.Dispose();
+
+                Environment.Exit(0);
+            
             }            
         }
 
+        private void FormLogin_FormClosing(object sender, FormClosingEventArgs e)
+        {
+
+            Environment.Exit(0);
+        }
+
+        private void txtPassword_KeyDown(object sender, KeyEventArgs e)
+        {
+            //Bat Su kien an phim Enter sau khi nhap Password
+            if (e.KeyCode == Keys.Return)
+            {
+                this.DoLogin();
+            }
+        }
+
+        private void DoLogin()
+        {
+            try
+            {
+                var loginAccess = new LoginDataAccess();
+                var dt = loginAccess.Login(txtUserID.Text, txtPassword.Text);
+
+                if (dt.Rows.Count > 0)
+                {
+                    Menu menu = new Menu();
+                    UserID = dt.Rows[0]["EmID"].ToString();
+                    UserName = dt.Rows[0]["EmName"].ToString();
+                    CallForm(this, menu, ClientId.Form_002, ClientId.Form_001);
+                }
+                else
+                {
+                    DisplayMessage(MessageKind.ErrorBox, MessageManager.E001);
+                    txtUserID.Focus();
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+                throw;
+            }
+        }
     }
 }

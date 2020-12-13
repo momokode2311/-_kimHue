@@ -47,11 +47,6 @@ namespace 携帯会社販売管理システム
             child.Show();
 
         }
-
-        public void BackToLogin(Form parent)
-        {
-            Application.OpenForms();
-        }
         
         /// <summary>
         /// メッセジーボックスを表示する

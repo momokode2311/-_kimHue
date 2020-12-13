@@ -37,15 +37,6 @@
             this.btnSearch = new System.Windows.Forms.Button();
             this.btnClear = new System.Windows.Forms.Button();
             this.grvWareHousingView = new System.Windows.Forms.DataGridView();
-            this.SNumber = new System.Windows.Forms.DataGridViewLinkColumn();
-            this.SName = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.color = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column5 = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Column6 = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.btnInsert = new System.Windows.Forms.Button();
             this.btnBack = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -177,16 +168,6 @@
             // grvWareHousingView
             // 
             this.grvWareHousingView.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.grvWareHousingView.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
-            this.SNumber,
-            this.SName,
-            this.color,
-            this.Column1,
-            this.Column2,
-            this.Column3,
-            this.Column4,
-            this.Column5,
-            this.Column6});
             this.grvWareHousingView.Dock = System.Windows.Forms.DockStyle.Fill;
             this.grvWareHousingView.Location = new System.Drawing.Point(0, 0);
             this.grvWareHousingView.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
@@ -196,56 +177,8 @@
             this.grvWareHousingView.TabIndex = 2;
             this.grvWareHousingView.TabStop = false;
             this.grvWareHousingView.Visible = false;
+            this.grvWareHousingView.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.grvWareHousingView_CellContentClick);
             this.grvWareHousingView.DataBindingComplete += new System.Windows.Forms.DataGridViewBindingCompleteEventHandler(this.grvWareHousingView_DataBindingComplete);
-            // 
-            // SNumber
-            // 
-            this.SNumber.HeaderText = "商品番号";
-            this.SNumber.Name = "SNumber";
-            this.SNumber.Resizable = System.Windows.Forms.DataGridViewTriState.True;
-            this.SNumber.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.Automatic;
-            // 
-            // SName
-            // 
-            this.SName.HeaderText = "商品名";
-            this.SName.Name = "SName";
-            this.SName.Width = 120;
-            // 
-            // color
-            // 
-            this.color.HeaderText = "カラー";
-            this.color.Name = "color";
-            this.color.Width = 60;
-            // 
-            // Column1
-            // 
-            this.Column1.HeaderText = "当月仕入数";
-            this.Column1.Name = "Column1";
-            // 
-            // Column2
-            // 
-            this.Column2.HeaderText = "当月仕入額";
-            this.Column2.Name = "Column2";
-            // 
-            // Column3
-            // 
-            this.Column3.HeaderText = "累計仕入数";
-            this.Column3.Name = "Column3";
-            // 
-            // Column4
-            // 
-            this.Column4.HeaderText = "累計仕入額";
-            this.Column4.Name = "Column4";
-            // 
-            // Column5
-            // 
-            this.Column5.HeaderText = "仕入日";
-            this.Column5.Name = "Column5";
-            // 
-            // Column6
-            // 
-            this.Column6.HeaderText = "単価";
-            this.Column6.Name = "Column6";
             // 
             // btnInsert
             // 
@@ -479,6 +412,7 @@
             this.Controls.Add(this.panel1);
             this.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.Name = "WareHousing";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.WareHousing_FormClosing);
             this.Load += new System.EventHandler(this.WareHousing_Load);
             ((System.ComponentModel.ISupportInitialize)(this.grvWareHousingView)).EndInit();
             this.panel1.ResumeLayout(false);
@@ -519,15 +453,6 @@
         private System.Windows.Forms.TextBox txtGoodCodeFrom;
         private System.Windows.Forms.RadioButton rdbDetails;
         private System.Windows.Forms.RadioButton rdbHeader;
-        private System.Windows.Forms.DataGridViewLinkColumn SNumber;
-        private System.Windows.Forms.DataGridViewTextBoxColumn SName;
-        private System.Windows.Forms.DataGridViewTextBoxColumn color;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column5;
-        private System.Windows.Forms.DataGridViewTextBoxColumn Column6;
         private System.Windows.Forms.Panel panel4;
     }
 }

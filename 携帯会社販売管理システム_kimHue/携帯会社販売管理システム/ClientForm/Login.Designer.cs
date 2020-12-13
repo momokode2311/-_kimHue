@@ -59,6 +59,7 @@
             this.txtPassword.Size = new System.Drawing.Size(117, 20);
             this.txtPassword.TabIndex = 2;
             this.txtPassword.UseSystemPasswordChar = true;
+            this.txtPassword.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtPassword_KeyDown);
             // 
             // label1
             // 
@@ -167,6 +168,7 @@
             this.Name = "FormLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ログイン画面";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormLogin_FormClosing);
             this.Load += new System.EventHandler(this.FormLogin_Load);
             this.panelLogin.ResumeLayout(false);
             this.panelLogin.PerformLayout();

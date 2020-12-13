@@ -62,12 +62,6 @@
     <Compile Include="ClientForm\BaseForm\BaseForm.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="ClientForm\MenuNew.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="ClientForm\MenuNew.Designer.cs">
-      <DependentUpon>MenuNew.cs</DependentUpon>
-    </Compile>
     <Compile Include="ClientForm\WareHousing.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -133,9 +127,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="ClientForm\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="ClientForm\MenuNew.resx">
-      <DependentUpon>MenuNew.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="ClientForm\WareHousing.resx">
       <DependentUpon>WareHousing.cs</DependentUpon>

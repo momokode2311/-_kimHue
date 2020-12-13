@@ -380,7 +380,7 @@
             this.Name = "Menu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "メニュー画面";
-            //this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Menu_FormClosing);
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Menu_FormClosing);
             this.Load += new System.EventHandler(this.Menu_Load);
             this.panelMenu.ResumeLayout(false);
             this.flowLayoutPanel9.ResumeLayout(false);
